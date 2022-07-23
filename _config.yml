@@ -1,2 +1,2 @@
-theme: jekyll-theme-cayman
 title: Tristan Farran
+uses: fastai/fastpages@v2.1.5
